@@ -12,7 +12,7 @@ limitations under the License.
 '''
 from setuptools import setup, find_packages
 
-PACKAGE_NAME = "kafka"
+PACKAGE_NAME = "warriorkafka"
 PACKAGE_VERSION = "1.0.0"
 
 setup(
